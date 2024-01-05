@@ -1,0 +1,33 @@
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\bin\Debug\MegaBolao.exe
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\bin\Debug\MegaBolao.pdb
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\bin\Debug\MegaBolao.xml
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\obj\Debug\MegaBolao.Form1.resources
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\obj\Debug\MegaBolao.Resources.resources
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\obj\Debug\MegaBolao.vbproj.GenerateResource.Cache
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\obj\Debug\MegaBolao.exe
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\obj\Debug\MegaBolao.xml
+C:\Documents and Settings\heron\Local Settings\Application Data\Temporary Projects\MegaBolao\obj\Debug\MegaBolao.pdb
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\MegaBolao.exe
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\MegaBolao.xml
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\MegaBolao.pdb
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\bin\Debug\MegaBolao.exe
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\bin\Debug\MegaBolao.pdb
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\bin\Debug\MegaBolao.xml
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\ResolveAssemblyReference.cache
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\MegaBolao.Form1.resources
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\MegaBolao.Resources.resources
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\MegaBolao.vbproj.GenerateResource.Cache
+C:\ProjVS2008\_teste\MegaBolao\MegaBolao\obj\Debug\MegaBolao.frmAbout.resources
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\bin\Debug\MegaBolao.exe
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\bin\Debug\MegaBolao.pdb
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\bin\Debug\MegaBolao.xml
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.vbproj.AssemblyReference.cache
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.Form1.resources
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.frmAbout.resources
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.Resources.resources
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.vbproj.GenerateResource.cache
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.vbproj.CoreCompileInputs.cache
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.exe
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.xml
+C:\Users\heron\source\repos\MegaBolao\MegaBolao\obj\Debug\MegaBolao.pdb
