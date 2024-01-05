@@ -1,4 +1,9 @@
 ﻿Imports System.IO
+Imports System.Reflection.Assembly
+
+'Author: Nostromo
+'Year: 2010
+'Contact: orionisnebula@protonmail.com
 
 Public Class Form1
 
@@ -54,7 +59,7 @@ Public Class Form1
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
-        Me.Text = Application.ProductName & " V-" & Application.ProductVersion & " Build " & My.Application.Info.Version.Build
+        Me.Text = VersaoAuto()
         ToolStripStatusLabel1.Text = Application.CompanyName & " " & My.Application.Info.Copyright & " " &
                                      IIf(Year(Now) > 2010, "-" & Year(Now), "")
         If File.Exists("MBHistorico.txt") Then
@@ -66,6 +71,21 @@ Public Class Form1
         CargaTabelas()
 
     End Sub
+
+    Private Function VersaoAuto() As String
+        'Retorna a versão automática
+        '05/01/24
+        '===========================
+        Dim version_auto As New String("")
+
+        version_auto &= GetExecutingAssembly().GetName().Version.Major.ToString & "."
+        version_auto &= GetExecutingAssembly().GetName().Version.Minor.ToString & "."
+        version_auto &= GetExecutingAssembly().GetName().Version.Build.ToString & " Build "
+        version_auto &= GetExecutingAssembly().GetName().Version.Revision.ToString
+
+        Return Application.ProductName & " V-" & version_auto & " - VB2022"
+
+    End Function
 
     Private Sub PictureBox1_DoubleClick(ByVal sender As Object, ByVal e As System.EventArgs) Handles PictureBox1.DoubleClick
         'Duplo click no quadro
